@@ -52,7 +52,7 @@ python trigger_alerts.py
 
 **Harshrajsinh Jadeja**
 
-* GitHub: [@harshrajsinh676(https://github.com/harshrajsinh676)
+* GitHub: [@harshrajsinh676](https://github.com/harshrajsinh676)
 * Username: harshrajsinh676
 * Email: [hmjadeja676@gmail.com](mailto:hmjadeja676@gmail.com)
 
